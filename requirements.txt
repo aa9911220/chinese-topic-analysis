@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jieba
+gensim
+bertopic
+sentence-transformers
+networkx
+datasets
+jupyter
