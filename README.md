@@ -287,9 +287,8 @@ allows documents to participate in multiple semantic topics.
 │   └── final_topic_comparison.png
 │
 ├── results/
-│   ├── lda_topic_keywords.json
-│   ├── lda_dominant_topic.csv
-│   └── documents_for_bertopic.csv
+│   ├── LDA_final_topic_table.csv
+│   └── BERTopic_final_topic_table.csv
 │
 ├── report/
 │   └── report.pdf
