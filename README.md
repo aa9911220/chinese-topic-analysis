@@ -274,8 +274,9 @@ allows documents to participate in multiple semantic topics.
 ```text
 .
 ├── notebooks/
-│   ├── LDA_analysis.ipynb
-│   └── BERTopic_analysis.ipynb
+│   ├── 01_data_collection.ipynb
+│   └── 02_LDA_topic_analysis.ipynb
+│   └── 03_bert_opic_analysis.ipynb
 │
 ├── data/
 │   └── README.md
