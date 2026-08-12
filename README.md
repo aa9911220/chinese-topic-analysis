@@ -111,10 +111,9 @@ co-occurring topic pairs.
 Pointwise Mutual Information (PMI) was used to measure the strength
 of association between topics:
 
-\[
-PMI(x,y) =
-\log \frac{P(x,y)}{P(x)P(y)}
-\]
+$$
+PMI(x,y) = \log \frac{P(x,y)}{P(x)P(y)}
+$$
 
 Only edges with:
 
