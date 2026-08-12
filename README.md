@@ -278,9 +278,6 @@ allows documents to participate in multiple semantic topics.
 │   └── 02_LDA_topic_analysis.ipynb
 │   └── 03_bert_opic_analysis.ipynb
 │
-├── data/
-│   └── README.md
-│
 ├── figures/
 │   ├── LDA_network_PMI005.png
 │   ├── BERTopic_network_PMI005.png
